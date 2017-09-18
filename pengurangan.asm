@@ -1,0 +1,6 @@
+	LD A,15H
+	LD B,10H
+	LD C,05H
+	DEC A
+	HALT
+	.END
